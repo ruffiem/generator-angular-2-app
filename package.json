@@ -1,6 +1,6 @@
 {
   "name": "generator-angular-2-app",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Angular2 application scaffolder packed up with typescript, sass, karma, protractor...",
   "homepage": "",
   "author": {
