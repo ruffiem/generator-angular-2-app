@@ -1,6 +1,6 @@
 {
   "name": "generator-angular-2-app",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Angular2 application scaffolder packed up with typescript, sass, karma, protractor...",
   "homepage": "https://github.com/ruffiem/generator-angular-2-app",
   "author": {

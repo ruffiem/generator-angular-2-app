@@ -55,16 +55,10 @@ $ gulp build
 
 This command will run all the compilation tasks and create a dist/ folder to your root directory with optimized code for production
 
-### Run all tests at once (Unit-test + E2E)
-
-```bash
-$ npm test
-```
-
 ### Unit testing with Karma
 
 ```bash
-$ npm run unit
+$ npm test
 ```
 
 ### End-to-end testing with Protractor
@@ -86,7 +80,7 @@ MIT © Michel Ruffieux ([ruffiem](mailto:ruffiem@gmail.com)) and contributors.
 [yo]: https://pbs.twimg.com/profile_images/3786155988/46ea2dd8b1bdd31a8ba61044cb5b6ebe_normal.png "Yeoman"
 [gulp]: https://pbs.twimg.com/profile_images/417078109075034112/iruTC031_normal.png "Gulp"
 [sass]: https://pbs.twimg.com/profile_images/583681608269471744/jCR2zNJV_normal.png "Sass"
-[typescript]: https://pbs.twimg.com/profile_images/2660272602/87a5a0fdc86455c3f94b0b0eebfdb1b9_normal.png "TypeScript"
+[typescript]: https://pbs.twimg.com/profile_images/743155381661143040/bynNY5dJ_normal.jpg "TypeScript"
 [live-reload]: https://pbs.twimg.com/profile_images/1650346891/128_normal.png "Live Reload"
 [bower]: https://pbs.twimg.com/profile_images/3536632979/66db62603f426a8fc6664081811be6d4_normal.png "Bower"
 [karma]: https://pbs.twimg.com/profile_images/420262386352652288/TidYGd6a_normal.png "Karma"
