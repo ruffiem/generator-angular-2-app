@@ -1,0 +1,89 @@
+
+@import "_variables"
+
+*
+  -webkit-font-smoothing: antialiased
+  font-smooth: auto
+
+body
+  width: 100%
+  height: 100vh
+  position: absolute
+  background-color: $vlight-grey !important
+  overflow: hidden
+  text-align: center
+  color: $text-main
+
+  .cc-container
+    width: 800px
+    position: absolute
+    border-radius: 0px
+    background-color: $common-white
+    box-shadow: 0px 0px 6px $middle-grey
+    left: 50%
+    top: 50%
+    transform: translate(-50%, -50%)
+
+  .cc-header
+    h1
+      font-size: 30px
+      font-weight: $text-normal
+      text-align: left
+      padding: $margin-normal
+      margin: 0px
+      color: $site-background
+      background-color: $punchy_green
+
+  .cc-content
+    text-align: left
+    padding: $margin-normal
+
+    h3
+      font-size: 22px
+      color: $text-main
+      margin: 0px
+      margin-bottom: $margin-big
+
+      &:not(:first-child)
+        margin-top: $margin-big
+
+    .row
+
+      margin: $margin-small 0px
+
+      label
+        font-size: 18px
+        font-weight: $text-normal
+        color: $text-main
+        padding-top: 3px
+
+    .cc-icon
+      position: absolute
+      top: 3px
+      right: 19px
+
+  .cc-validation
+    position: relative
+    background-color: #eee
+    padding: $margin-big
+
+    label
+      font-weight: $text-normal
+
+  .cc-submit
+    background-color: $punchy-orange
+    color: $common-white
+    font-weight: $text-medium
+    font-size: 22px
+    cursor: pointer
+    padding: $margin-small
+
+    button
+      background-color: transparent
+      border: 0px solid transparent
+      text-shadow: 0px 0px 3px rgba(0,0,0,0.25)
+
+      &:active,
+      &:focus
+        outline: none
+        border: 0px

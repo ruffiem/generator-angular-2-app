@@ -1,0 +1,27 @@
+{
+  "name": "wef-poc",
+  "dependencies": {
+    "moment": "registry:npm/moment#2.10.5+20160211003958"
+  },
+  "globalDependencies": {
+    "body-parser": "registry:dt/body-parser#0.0.0+20160317120654",
+    "es6-shim": "registry:dt/es6-shim#0.31.2+20160317120654",
+    "express": "registry:dt/express#4.0.0+20160317120654",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#0.0.0+20160322035842",
+    "form-data": "registry:dt/form-data#0.0.0+20160316155526",
+    "hammerjs": "registry:dt/hammerjs#2.0.4+20160417130828",
+    "jasmine": "registry:dt/jasmine#2.2.0+20160505161446",
+    "angular-protractor": "registry:dt/angular-protractor#1.5.0+20160425143459",
+    "selenium-webdriver": "registry:dt/selenium-webdriver#2.44.0+20160317120654",
+    "jsonwebtoken": "registry:dt/jsonwebtoken#5.7.0+20160227192404",
+    "marked": "registry:dt/marked#0.0.0+20160325085301",
+    "mime": "registry:dt/mime#0.0.0+20160316155526",
+    "morgan": "registry:dt/morgan#1.2.2+20160317120654",
+    "node": "registry:dt/node#6.0.0+20160514165920",
+    "pg": "registry:dt/pg#0.0.0+20160514172051",
+    "request": "registry:dt/request#0.0.0+20160316155526",
+    "serve-favicon": "registry:dt/serve-favicon#2.2.0+20150909053605",
+    "serve-static": "registry:dt/serve-static#1.7.1+20160104095738"
+  },
+  "ambientDependencies": {}
+}

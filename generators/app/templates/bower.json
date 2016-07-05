@@ -1,0 +1,23 @@
+{
+  "name": "<%= appName %>",
+  "description": "Angular2 application",
+  "main": "index.html",
+  "authors": [
+    "ruffiem"
+  ],
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://github.com/ruffiem/generator-angular2-app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "traceur-runtime": "^0.0.107",
+    "font-awesome": "^4.6.3"
+  }
+}

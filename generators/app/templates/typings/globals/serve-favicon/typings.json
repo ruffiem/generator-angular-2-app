@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/aa6a9fa49d4b1de8defe4d6db05103dadae81ad6/serve-favicon/serve-favicon.d.ts",
+    "raw": "registry:dt/serve-favicon#2.2.0+20150909053605",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/aa6a9fa49d4b1de8defe4d6db05103dadae81ad6/serve-favicon/serve-favicon.d.ts"
+  }
+}
