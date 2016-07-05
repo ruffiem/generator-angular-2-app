@@ -89,7 +89,7 @@ MIT © Michel Ruffieux ([ruffiem](mailto:ruffiem@gmail.com)) and contributors.
 [bootstrap]: https://pbs.twimg.com/profile_images/378800000195279414/f8404a9d719c7ffce1478ba1a50036f9_normal.png "Bootstrap"
 [jquery]: http://jomboom.com/images/jquery.png "jQuery"
 
-[npm-image]: https://badge.fury.io/js/generator-angular2-application-scaffolder.svg
-[npm-url]: https://npmjs.org/package/generator-angular2-application-scaffolder
-[daviddm-image]: https://david-dm.org/ruffiem/generator-angular2-application-scaffolder.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/ruffiem/generator-angular2-application-scaffolder
+[npm-image]: https://badge.fury.io/js/generator-angular-2-app.svg
+[npm-url]: https://npmjs.org/package/generator-angular-2-app.svg
+[daviddm-image]: https://david-dm.org/ruffiem/generator-angular-2-app.svg.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/ruffiem/generator-angular-2-app.svg
