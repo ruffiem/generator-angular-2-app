@@ -48,7 +48,7 @@
       "mocha": true
     }
   },
-  "repository": "https://github.com/Homebrew/homebrew",
+  "repository": "https://github.com/ruffiem/generator-angular-2-app",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
