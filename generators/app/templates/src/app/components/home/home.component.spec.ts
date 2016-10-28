@@ -13,7 +13,7 @@ describe('Home Component : ', () => {
   );
   it('should say \'We Start Here\'',
     inject([ HomeComponent ], ( app: HomeComponent ) => {
-      expect( app.weStartHere ).toBeTruthy( 'We Start Here!' );
+      expect( app.weStartHere ).toBe( 'We Start Here!' );
     })
   );
 });
